@@ -83,13 +83,8 @@ Alerts
 ## Responsible use
 
 Only run this against simulated data or your own authorised test environment.
-## Screenshots
+   ## Screenshots
 
-### Trace by Call ID
-![Call ID trace](screenshots/callid.png)
-
-### Trace by device (location jump alert)
-![Device trace](screenshots/device.png)
-
-### Full dataset scan
-![Scan](screenshots/scan.png)
+   ![Call ID trace](callid.png)
+   ![Device trace](device.png)
+   ![Scan](scan.png)
